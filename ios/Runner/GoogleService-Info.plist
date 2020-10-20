@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>124150834998-gbji1jn5j7esgjgvqhmardgnrbnqh4sa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.124150834998-gbji1jn5j7esgjgvqhmardgnrbnqh4sa</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAiIYPmfaWNppBSqqXTa7JCiakO1SQASHw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>124150834998</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.cryptoWallet</string>
+	<key>PROJECT_ID</key>
+	<string>cryptowallet-582f2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cryptowallet-582f2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:124150834998:ios:7b09678d9b0102b4f77597</string>
+	<key>DATABASE_URL</key>
+	<string>https://cryptowallet-582f2.firebaseio.com</string>
+</dict>
+</plist>
