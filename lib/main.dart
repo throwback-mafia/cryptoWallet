@@ -8,7 +8,9 @@ void main() async {
   runApp(MyApp());
 }
 
-class Firebase {}
+class Firebase {
+  static initializeApp() {}
+}
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
